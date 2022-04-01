@@ -1,10 +1,18 @@
-# Sito portfolio di cescsbailo
+# Cescsbailo's Portfolio
 
-Questo è un sito dove raccolgo tutti i miei progetti di presentazione e anche una mia presentazione
+Hello World!
+Here you can find more about me and my projects.
 
-### Le tecnologie che ho usato sono:
--barbecue chicken
+### Technologies:
+-JAVA
+-SQL
+-HTML
+-CSS
+-JavaScript
 
-### Ringrazio per le librerie:
--Giannimorandi
--Topogigio
+### Thanks to:
+-LupoLucio
+-SnoopDog
+-Maradona
+-DwightSchrute
+-EzioAuditore
