@@ -1289,5 +1289,23 @@ input[type="text"] {
 .js .animate-box {
   opacity: 0;
 }
+.bottoneita {
+  width: 60px;
+  height: 30px;
+  background-image: url('/images/italiano.png');
+  background-size: cover;
+  align-items: center;
+  color: #000;
+  
+}
+.bottoneeng {
+  width: 60px;
+  height: 30px;
+  background-image: url('/images/english.png');
+  background-size: cover;
+  align-items: center;
+  color: #000;
+  
+}
 
 /*# sourceMappingURL=style.css.map */
