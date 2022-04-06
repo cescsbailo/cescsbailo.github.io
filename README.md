@@ -11,8 +11,3 @@ Here you can find more about me and my projects.
 -JavaScript
 
 ### Thanks to:
--LupoLucio
--SnoopDog
--Maradona
--DwightSchrute
--EzioAuditore
