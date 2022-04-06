@@ -1305,7 +1305,9 @@ input[type="text"] {
   background-size: cover;
   align-items: center;
   color: #000;
-  
+  object-position: top;
 }
-
+.posizionebottone{
+  padding-bottom: 20%;
+}
 /*# sourceMappingURL=style.css.map */
